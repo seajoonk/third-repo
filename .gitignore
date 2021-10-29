@@ -1,3 +1,12 @@
+# Custom for practice
+
+
+.hidden/**
+*.java
+rootkey.*
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
